@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Music Genre Classification')
 '''
-![image](https://lh3.googleusercontent.com/proxy/DRr0fclCaH0uJBnQ4pNVX-c-KPWkOTr0-C6OqR0EUL1q8yATnzoQgEIbChqeeFT1TaaYnAyK7KF2ERPAcw5hohj91LyIwl33MlP-ZMkAfmkF)
+![music.png](https://raw.githubusercontent.com/sarveshspatil111/music-genre-classification/master/music.png)
 '''
 with st.echo():
     # Importing required libraries
