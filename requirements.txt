@@ -68,6 +68,7 @@ Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
 smmap==4.0.0
+spotipy==2.18.0
 streamlit==0.80.0
 terminado==0.9.4
 testpath==0.4.4
