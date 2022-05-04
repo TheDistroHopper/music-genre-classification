@@ -1,6 +1,6 @@
 import streamlit as st
 
-nav = st.sidebar.radio("Navigate",["Home",  "Classify", "Code"])
+nav = st.sidebar.radio("Navigate",["Home",  "Classify"])
 
 if nav == "Home":
     if __name__ == "__main__":
